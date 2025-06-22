@@ -119,6 +119,128 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_zNT8iK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_chyGKJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Trusted. Tested. Now it’s yours",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_chyGKJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_N8yVVq": {
+      "type": "featured-product",
+      "blocks": {
+        "title_WAJwXx": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_8NAthq": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_DUBeYy": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_gzcpjF": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_YxDTt7": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_YPwDyM": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_YeALtf": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_eEn9eL": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ijBQ7z": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_jV4VFi": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_WAJwXx",
+        "badges_8NAthq",
+        "price_DUBeYy",
+        "rating_gzcpjF",
+        "separator_YxDTt7",
+        "description_YPwDyM",
+        "variant_picker_YeALtf",
+        "quantity_selector_eEn9eL",
+        "buy_buttons_ijBQ7z",
+        "pickup_availability_jV4VFi"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "safenest™-lockpro",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -126,6 +248,8 @@
     "rich_text_MgVtDT",
     "image_with_text_overlay_MRHj9h",
     "rich_text_x4NXxV",
-    "video_mTMbP7"
+    "video_mTMbP7",
+    "rich_text_zNT8iK",
+    "featured_product_N8yVVq"
   ]
 }
