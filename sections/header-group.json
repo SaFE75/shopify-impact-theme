@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_tz9m3Q": {
+          "type": "message",
+          "settings": {
+            "text": "Built for your peace of mind – Easy to install, hard to break",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "50% OFF + FREE Shipping",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_tz9m3Q",
         "message"
       ],
       "settings": {
