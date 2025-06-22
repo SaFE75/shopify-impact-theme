@@ -78,11 +78,63 @@
         "overlay_color": "#ffffff",
         "overlay_opacity": 30
       }
+    },
+    "rich_text_x4NXxV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hWhQVw": {
+          "type": "heading",
+          "settings": {
+            "text": "See the Difference in Action",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hWhQVw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_mTMbP7": {
+      "type": "video",
+      "blocks": {
+        "play_UTXrRx": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_UTXrRx"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ScreenRecording_06-22-2025 18-11-21_1.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_8nKLBV",
     "rich_text_MgVtDT",
-    "image_with_text_overlay_MRHj9h"
+    "image_with_text_overlay_MRHj9h",
+    "rich_text_x4NXxV",
+    "video_mTMbP7"
   ]
 }
