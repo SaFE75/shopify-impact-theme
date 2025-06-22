@@ -107,15 +107,6 @@
     },
     "video_mTMbP7": {
       "type": "video",
-      "blocks": {
-        "play_UTXrRx": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_UTXrRx"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
