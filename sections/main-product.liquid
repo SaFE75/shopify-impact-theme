@@ -109,7 +109,10 @@ quick buy information in a template, that will be extracted in JS, but ensure it
     <div class="v-stack gap-0.5">
       <a href="{{ product.url }}" class="bold justify-self-start">{{ product.title }}</a>
       {%- render 'price-list', product: product, variant: product.selected_or_first_available_variant, form_id: product_form_id -%}
-    </div>
+    </div style="margin-top: 10px; text-align: center;">
+  <img src="{{ 'stock-alert.jpg' | asset_url }}" alt="Stock Information" style="max-width: 100%; height: auto;">
+</div>
+
   </div>
 
   <div class="quick-buy-drawer__info">
