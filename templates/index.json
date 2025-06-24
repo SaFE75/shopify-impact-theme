@@ -178,7 +178,7 @@
         "description_YPwDyM": {
           "type": "description",
           "settings": {
-            "collapse_content": false
+            "collapse_content": true
           }
         },
         "variant_picker_YeALtf": {
