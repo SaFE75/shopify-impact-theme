@@ -178,7 +178,7 @@
         "description_YPwDyM": {
           "type": "description",
           "settings": {
-            "collapse_content": true
+            "collapse_content": false
           }
         },
         "variant_picker_YeALtf": {
@@ -197,13 +197,14 @@
         },
         "buy_buttons_ijBQ7z": {
           "type": "buy_buttons",
+          "name": "Add to cart ",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#ffb74a",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
-            "payment_button_text_color": ""
+            "payment_button_text_color": "#1a1a1a"
           }
         },
         "pickup_availability_jV4VFi": {
