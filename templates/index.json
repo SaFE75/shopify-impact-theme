@@ -331,25 +331,25 @@
             "content": "<p>Yes! The SafeNest Pro Locker is designed to be <strong>fully adjustable</strong> and fits <strong>most standard hinged doors</strong>, whether for your home, apartment, or office.</p>"
           }
         },
-        "item_wYcy8A": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
         "item_eg9RDw": {
           "type": "item",
           "settings": {
             "title": "How do I use the SafeNest Pro Lock?",
             "content": "<p>Just <strong>adjust the length</strong> of the bar to fit your door handle and the floor.<br/>Place the rubber base firmly on the ground and <strong>angle the bar under the handle</strong>.<br/>No tools needed — installation takes <strong>less than 10 seconds</strong>.</p>"
           }
+        },
+        "item_wYcy8A": {
+          "type": "item",
+          "settings": {
+            "title": "What if the SafeNest Pro Lock doesn't meet my expectations?",
+            "content": "<p>We're confident you'll love your new <strong>SafeNest Pro Lock</strong>.<br/>However, if you're not completely satisfied, simply send it back — we guarantee a <strong>full refund</strong>.<br/>No hassle, no stress. !</p>"
+          }
         }
       },
       "block_order": [
         "item_xY8PTk",
-        "item_wYcy8A",
-        "item_eg9RDw"
+        "item_eg9RDw",
+        "item_wYcy8A"
       ],
       "name": "FAQ",
       "settings": {
