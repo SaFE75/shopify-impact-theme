@@ -223,6 +223,12 @@
         "pickup_availability_jV4VFi": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "liquid_W7URk7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"trust-badges\">\n  <div class=\"badge\">\n    <span class=\"icon\">🔒</span>\n    <div class=\"text\">\n      <p class=\"title\">Secure</p>\n      <p class=\"subtitle\">Payment</p>\n    </div>\n  </div>\n  <div class=\"badge\">\n    <span class=\"icon\">🚚</span>\n    <div class=\"text\">\n      <p class=\"title\">Shipping</p>\n      <p class=\"subtitle\">Free Delivery</p>\n    </div>\n  </div>\n  <div class=\"badge\">\n    <span class=\"icon\">✅</span>\n    <div class=\"text\">\n      <p class=\"title\">Returns</p>\n      <p class=\"subtitle\">30 Days Guarantee</p>\n    </div>\n  </div>\n</div>\n\n<style>\n.trust-badges {\n  display: flex;\n  justify-content: center;\n  gap: 0.4rem;\n  padding: 0.5rem;\n  overflow-x: auto;\n  max-width: 100%;\n  box-sizing: border-box;\n}\n\n.badge {\n  flex: 0 0 auto;\n  display: flex;\n  align-items: center;\n  background: #f9f9f9;\n  padding: 6px 8px;\n  border-radius: 6px;\n  box-shadow: 0 1px 2px rgba(0,0,0,0.06);\n  min-width: 100px;\n}\n\n.icon {\n  font-size: 18px;\n  margin-right: 6px;\n  flex-shrink: 0;\n}\n\n.text {\n  display: flex;\n  flex-direction: column;\n  overflow: hidden;\n}\n\n.title {\n  font-size: 11px;\n  font-weight: 600;\n  margin: 0;\n  line-height: 1.1;\n  white-space: nowrap;\n}\n\n.subtitle {\n  font-size: 10px;\n  color: #555;\n  margin: 0;\n  line-height: 1.1;\n  white-space: nowrap;\n}\n</style>"
+          }
         }
       },
       "block_order": [
@@ -237,7 +243,8 @@
         "variant_picker_YeALtf",
         "quantity_selector_eEn9eL",
         "buy_buttons_ijBQ7z",
-        "pickup_availability_jV4VFi"
+        "pickup_availability_jV4VFi",
+        "liquid_W7URk7"
       ],
       "name": "Featured product",
       "settings": {
