@@ -178,10 +178,6 @@
             "show_empty": false
           }
         },
-        "separator_YxDTt7": {
-          "type": "separator",
-          "settings": {}
-        },
         "liquid_xwdYLz": {
           "type": "liquid",
           "settings": {
@@ -237,7 +233,6 @@
         "price_DUBeYy",
         "image_MCkJBY",
         "rating_gzcpjF",
-        "separator_YxDTt7",
         "liquid_xwdYLz",
         "description_YPwDyM",
         "variant_picker_YeALtf",
