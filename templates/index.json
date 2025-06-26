@@ -291,12 +291,21 @@
             "content": "<p>We ship your <strong>SafeNest Pro Locker</strong> straight to your door — <strong>fast and 100% free</strong>.<br/>Delivery usually takes <strong>7 to 14 business days</strong>, depending on your location.<br/>You'll receive <strong>real-time updates</strong> so you can track your order every step of the way.<br/><br/>No hidden fees. No surprises. Just peace of mind.</p>",
             "page": ""
           }
+        },
+        "tab_Bfzdbq": {
+          "type": "tab",
+          "settings": {
+            "title": "💬 Customer Support 7/7",
+            "content": "<p>Our team is here for you <strong>7 days a week</strong>.</p><p>🕘 <strong>Monday to Friday:</strong> 9 AM – 12 PM and 2 PM – 5 PM<br/>🕙 <strong>Saturday & Sunday:</strong> 10 AM – 12 PM</p><p>Need help or have a question?<br/><br/><strong>Don’t hesitate to reach out — we’re always happy to assist you.</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_6zPRPP",
         "tab_afbMYt",
-        "tab_hUD6Mz"
+        "tab_hUD6Mz",
+        "tab_Bfzdbq"
       ],
       "name": "Tabs",
       "settings": {
