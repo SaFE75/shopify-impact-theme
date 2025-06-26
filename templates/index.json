@@ -287,8 +287,8 @@
         "tab_hUD6Mz": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "🚚 Free Home Delivery",
+            "content": "<p>We ship your <strong>SafeNest Pro Locker</strong> straight to your door — <strong>fast and 100% free</strong>.<br/>Delivery usually takes <strong>7 to 14 business days</strong>, depending on your location.<br/>You'll receive <strong>real-time updates</strong> so you can track your order every step of the way.<br/><br/>No hidden fees. No surprises. Just peace of mind.</p>",
             "page": ""
           }
         }
@@ -302,7 +302,7 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
+        "subheading": "",
         "title": "",
         "first_tab_open": false,
         "background": "",
