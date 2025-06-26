@@ -320,6 +320,59 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_VpY7Dd": {
+      "type": "faq",
+      "blocks": {
+        "item_xY8PTk": {
+          "type": "item",
+          "settings": {
+            "title": "Does the product fit all doors?",
+            "content": "<p>Yes! The SafeNest Pro Locker is designed to be <strong>fully adjustable</strong> and fits <strong>most standard hinged doors</strong>, whether for your home, apartment, or office.</p>"
+          }
+        },
+        "item_wYcy8A": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_eg9RDw": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xY8PTk",
+        "item_wYcy8A",
+        "item_eg9RDw"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -330,6 +383,7 @@
     "video_mTMbP7",
     "rich_text_zNT8iK",
     "featured_product_N8yVVq",
-    "tabs_Xg7AXa"
+    "tabs_Xg7AXa",
+    "faq_VpY7Dd"
   ]
 }
