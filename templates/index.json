@@ -344,12 +344,20 @@
             "title": "What if the SafeNest Pro Lock doesn't meet my expectations?",
             "content": "<p>We're confident you'll love your new <strong>SafeNest Pro Lock</strong>.<br/>However, if you're not completely satisfied, simply send it back — we guarantee a <strong>full refund</strong>.<br/>No hassle, no stress. !</p>"
           }
+        },
+        "item_QRkL6x": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "content": "<p>Yes, we do! We offer <strong>international shipping</strong> to many countries.<br/>Shipping times may vary depending on your location, but you’ll receive <strong>tracking updates every step of the way</strong>.</p>"
+          }
         }
       },
       "block_order": [
         "item_xY8PTk",
         "item_eg9RDw",
-        "item_wYcy8A"
+        "item_wYcy8A",
+        "item_QRkL6x"
       ],
       "name": "FAQ",
       "settings": {
