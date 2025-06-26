@@ -335,21 +335,28 @@
           "type": "item",
           "settings": {
             "title": "How do I use the SafeNest Pro Lock?",
-            "content": "<p>Just <strong>adjust the length</strong> of the bar to fit your door handle and the floor.<br/>Place the rubber base firmly on the ground and <strong>angle the bar under the handle</strong>.<br/>No tools needed — installation takes <strong>less than 10 seconds</strong>.</p>"
+            "content": "<p>Just <strong>adjust the length</strong> of the bar to fit your door handle and the floor.</p><p><br/>Place the rubber base firmly on the ground and <strong>angle the bar under the handle</strong>.</p><p><br/>No tools needed — installation takes <strong>less than 10 seconds</strong>.</p>"
           }
         },
         "item_wYcy8A": {
           "type": "item",
           "settings": {
             "title": "What if the SafeNest Pro Lock doesn't meet my expectations?",
-            "content": "<p>We're confident you'll love your new <strong>SafeNest Pro Lock</strong>.<br/>However, if you're not completely satisfied, simply send it back — we guarantee a <strong>full refund</strong>.<br/>No hassle, no stress. !</p>"
+            "content": "<p>We're confident you'll love your new <strong>SafeNest Pro Lock</strong>.</p><p><br/>However, if you're not completely satisfied, simply send it back — we guarantee a <strong>full refund</strong>.<br/>No hassle, no stress. !</p>"
           }
         },
         "item_QRkL6x": {
           "type": "item",
           "settings": {
             "title": "Do you ship internationally?",
-            "content": "<p>Yes, we do! We offer <strong>international shipping</strong> to many countries.<br/>Shipping times may vary depending on your location, but you’ll receive <strong>tracking updates every step of the way</strong>.</p>"
+            "content": "<p>Yes, we do! We offer <strong>international shipping</strong> to many countries.</p><p><br/>Shipping times may vary depending on your location, but you’ll receive <strong>tracking updates every step of the way</strong>.</p>"
+          }
+        },
+        "item_my7aVy": {
+          "type": "item",
+          "settings": {
+            "title": "How long does delivery take?",
+            "content": "<p>Delivery usually takes <strong>7 to 14 business days</strong>, depending on your location.<br/><br/>As soon as your order is shipped, you'll receive <strong>all the tracking details by email</strong>, so you can follow your package in real time.</p>"
           }
         }
       },
@@ -357,7 +364,8 @@
         "item_xY8PTk",
         "item_eg9RDw",
         "item_wYcy8A",
-        "item_QRkL6x"
+        "item_QRkL6x",
+        "item_my7aVy"
       ],
       "name": "FAQ",
       "settings": {
