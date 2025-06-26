@@ -11,6 +11,81 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "text_with_icons_VRFRqz": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_VbLExt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "#697e8f",
+            "title": "Free shipping",
+            "content": ""
+          }
+        },
+        "item_a9HMYJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Satisfaction Guaranteed",
+            "content": ""
+          }
+        },
+        "item_eezCnN": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer Support 7/7",
+            "content": ""
+          }
+        },
+        "item_na7G7T": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_VbLExt",
+        "item_a9HMYJ",
+        "item_eezCnN",
+        "item_na7G7T"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -55,6 +130,7 @@
     }
   },
   "order": [
+    "text_with_icons_VRFRqz",
     "footer"
   ]
 }
