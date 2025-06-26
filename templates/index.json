@@ -264,6 +264,53 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_Xg7AXa": {
+      "type": "tabs",
+      "blocks": {
+        "tab_6zPRPP": {
+          "type": "tab",
+          "settings": {
+            "title": "🛡️ Product Details",
+            "content": "<p>• Reinforces door security against break-ins<br/><br/>• Adjustable length to fit most doors<br/><br/>• Non-slip base for maximum stability<br/><br/>• Easy, tool-free installation<br/><br/>• Suitable for front doors, bedrooms, etc.<br/><br/>• Lightweight and portable – great for home or travel</p>",
+            "page": ""
+          }
+        },
+        "tab_afbMYt": {
+          "type": "tab",
+          "settings": {
+            "title": "🎯 Try It for 30 Days",
+            "content": "<p>We believe in the quality of <strong>SafeNest Pro Locker</strong>.<br/>Use it for <strong>30 days</strong> — if you're not 100% satisfied, simply return it and receive a <strong>full refund, no questions asked</strong>.<br/><br/>Zero risk, total peace of mind.</p>",
+            "page": ""
+          }
+        },
+        "tab_hUD6Mz": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_6zPRPP",
+        "tab_afbMYt",
+        "tab_hUD6Mz"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -273,6 +320,7 @@
     "rich_text_x4NXxV",
     "video_mTMbP7",
     "rich_text_zNT8iK",
-    "featured_product_N8yVVq"
+    "featured_product_N8yVVq",
+    "tabs_Xg7AXa"
   ]
 }
