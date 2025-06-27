@@ -28,6 +28,14 @@
             "show_taxes_notice": false
           }
         },
+        "image_CHpNy8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/50fd6ccb-6911-4076-9191-bc6fc6b5b8a5.png",
+            "alignment": "center",
+            "max_width": 160
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -36,10 +44,6 @@
         },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
           "settings": {}
         },
         "description": {
@@ -86,9 +90,9 @@
         "title",
         "badges",
         "price",
+        "image_CHpNy8",
         "rating",
         "payment_terms",
-        "separator",
         "description",
         "variant_picker",
         "quantity_selector",
