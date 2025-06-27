@@ -108,9 +108,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Contact Us",
+            "content": "<p><strong>Customer Support:</strong> <a>contact@safenest.com</a><br/><br/><strong>Hours:</strong><br/><br/>Monday to Friday – 9:00 AM to 12:00 PM & 2:00 PM to 5:00 PM<br/><br/>Saturday & Sunday – 10:00 AM to 12:00 PM</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
