@@ -28,12 +28,12 @@
             "show_taxes_notice": false
           }
         },
-        "image_CHpNy8": {
+        "image_3WDPXz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/50fd6ccb-6911-4076-9191-bc6fc6b5b8a5.png",
+            "image": "shopify://shop_images/62e3a5b5-c02a-48a9-af9e-5fbe7ee88709.png",
             "alignment": "center",
-            "max_width": 160
+            "max_width": 200
           }
         },
         "rating": {
@@ -90,7 +90,7 @@
         "title",
         "badges",
         "price",
-        "image_CHpNy8",
+        "image_3WDPXz",
         "rating",
         "payment_terms",
         "description",
