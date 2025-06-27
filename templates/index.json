@@ -395,7 +395,7 @@
         "content": "<p>Write to us using the form below and we’ll get back to you as soon as possible.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
