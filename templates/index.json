@@ -165,6 +165,14 @@
             "show_taxes_notice": false
           }
         },
+        "image_zrh3FC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/51ca2e3d-b78a-483d-a425-5e53a4c7f88c.png",
+            "alignment": "center",
+            "max_width": 330
+          }
+        },
         "image_MCkJBY": {
           "type": "image",
           "settings": {
@@ -231,6 +239,7 @@
         "title_WAJwXx",
         "badges_8NAthq",
         "price_DUBeYy",
+        "image_zrh3FC",
         "image_MCkJBY",
         "rating_gzcpjF",
         "liquid_xwdYLz",
