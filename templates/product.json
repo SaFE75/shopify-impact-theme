@@ -128,22 +128,22 @@
         "item_tmMKkj": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Is the SafeNest™ LockPro compatible with all doors?",
+            "content": "<p>Yes, the SafeNest™ LockPro is designed to fit <strong>most standard doors</strong> with a thickness between <strong>2 cm and 5 cm</strong>.<br/><br/>It works perfectly on <strong>interior and exterior doors</strong> — whether you're at <strong>home</strong>, in an <strong>apartment</strong>, a <strong>hotel</strong>, an <strong>Airbnb</strong>, or a <strong>dorm room</strong>.<br/><br/>It requires <strong>no tools</strong> and leaves <strong>no marks</strong>, making it ideal for <strong>temporary use or travel</strong>.</p><p></p>"
           }
         },
         "item_qdtMPq": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>At SafeNest™, our teams prioritize <strong>product quality and reliability</strong> above all. That’s why delivery typically takes between <strong>5 to 14 business days</strong>.</p><p>While <strong>most of our customers receive their orders within 5 to 7 days</strong>, we prefer to set a <strong>maximum delivery time of 14 business days</strong> to account for any unexpected logistics delays.</p><p>In rare cases, <strong>operational issues</strong> may slightly extend delivery times. However, we are fully <strong>transparent</strong> and you will always be <strong>kept informed</strong> of the status of your order via email updates.</p>"
           }
         },
         "item_mGgJKW": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Do you ship internationally?",
+            "content": "<p>Yes, we do! At SafeNest™, we proudly offer <strong>international shipping</strong>. No matter where you're located, we aim to deliver our products <strong>worldwide</strong>.</p><p>Please note that <strong>delivery times</strong> and <strong>shipping fees</strong> may vary depending on your location. All relevant information will be clearly communicated during checkout.</p><p>We are committed to making SafeNest™ accessible <strong>to as many people as possible across the globe</strong>.</p>"
           }
         }
       },
@@ -159,7 +159,6 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
