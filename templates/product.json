@@ -160,20 +160,12 @@
             "title": "Do you ship internationally?",
             "content": "<p>Yes, we do! At SafeNest™, we proudly offer <strong>international shipping</strong>. No matter where you're located, we aim to deliver our products <strong>worldwide</strong>.</p><p>Please note that <strong>delivery times</strong> and <strong>shipping fees</strong> may vary depending on your location. All relevant information will be clearly communicated during checkout.</p><p>We are committed to making SafeNest™ accessible <strong>to as many people as possible across the globe</strong>.</p>"
           }
-        },
-        "item_WPbwPx": {
-          "type": "item",
-          "settings": {
-            "title": "Any question ?",
-            "content": "<p><strong>Contact us</strong> — we're here to help, 24/7. </p>"
-          }
         }
       },
       "block_order": [
         "item_tmMKkj",
         "item_qdtMPq",
-        "item_mGgJKW",
-        "item_WPbwPx"
+        "item_mGgJKW"
       ],
       "name": "FAQ",
       "settings": {
@@ -195,6 +187,27 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "contact_RrMUiN": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Any questions?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "related-products": {
@@ -241,6 +254,7 @@
   "order": [
     "main",
     "faq_QbTjaF",
+    "contact_RrMUiN",
     "related-products",
     "image_link_blocks_g9DWGM"
   ]
