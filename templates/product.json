@@ -160,12 +160,20 @@
             "title": "Do you ship internationally?",
             "content": "<p>Yes, we do! At SafeNest™, we proudly offer <strong>international shipping</strong>. No matter where you're located, we aim to deliver our products <strong>worldwide</strong>.</p><p>Please note that <strong>delivery times</strong> and <strong>shipping fees</strong> may vary depending on your location. All relevant information will be clearly communicated during checkout.</p><p>We are committed to making SafeNest™ accessible <strong>to as many people as possible across the globe</strong>.</p>"
           }
+        },
+        "item_WPbwPx": {
+          "type": "item",
+          "settings": {
+            "title": "Any question ?",
+            "content": "<p><strong>Contact us</strong> — we're here to help, 24/7. </p>"
+          }
         }
       },
       "block_order": [
         "item_tmMKkj",
         "item_qdtMPq",
-        "item_mGgJKW"
+        "item_mGgJKW",
+        "item_WPbwPx"
       ],
       "name": "FAQ",
       "settings": {
