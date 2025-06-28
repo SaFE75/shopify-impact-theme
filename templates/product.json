@@ -28,6 +28,14 @@
             "show_taxes_notice": false
           }
         },
+        "image_jAjWjm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SUMMER.png",
+            "alignment": "center",
+            "max_width": 330
+          }
+        },
         "liquid_7rwXAa": {
           "type": "liquid",
           "settings": {
@@ -113,6 +121,7 @@
         "title",
         "badges",
         "price",
+        "image_jAjWjm",
         "liquid_7rwXAa",
         "rating",
         "payment_terms",
