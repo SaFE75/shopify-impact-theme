@@ -180,6 +180,12 @@
             "max_width": 150
           }
         },
+        "kaching_bundles_app_block_ab6qp7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "safenest™-lockpro"
+          }
+        },
         "rating_gzcpjF": {
           "type": "rating",
           "settings": {
@@ -241,6 +247,7 @@
         "price_DUBeYy",
         "image_zrh3FC",
         "image_MCkJBY",
+        "kaching_bundles_app_block_ab6qp7",
         "rating_gzcpjF",
         "liquid_xwdYLz",
         "description_YPwDyM",
