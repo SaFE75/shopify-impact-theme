@@ -109,6 +109,13 @@
             "content": "<p><strong>Don’t leave for work with a knot in your stomach, worrying about your kids or loved ones.</strong><br/><br/>Right after you leave, simply tell your family to place the SafeNest™ LockPro on the door and enjoy your day with peace of mind.</p><p><strong>Because safety shouldn’t stop when you step outside.</strong></p>"
           }
         },
+        "collapsible_text_DheC3Q": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "text_336jgz": {
           "type": "text",
           "settings": {
@@ -138,6 +145,7 @@
         "liquid_hYJ3TD",
         "collapsible_text_KtAUxd",
         "collapsible_text_AQa9TN",
+        "collapsible_text_DheC3Q",
         "text_336jgz",
         "liquid_ULdBQb"
       ],
