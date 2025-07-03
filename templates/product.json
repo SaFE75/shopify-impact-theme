@@ -18,6 +18,12 @@
             "heading_tag": "h2"
           }
         },
+        "text_VM3xP3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Easy to install, hard to break</em></p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -96,6 +102,13 @@
             "content": "<p>• <strong>Adjustable Length</strong>: 27.5 to 45 inches (70 to 115 cm)<br/>• <strong>No Tools Needed</strong>: Quick and easy setup<br/>• <strong>Universal Fit</strong>: Compatible with most door types<br/>• <strong>Anti-Slip Design</strong>: Rubber pads for extra grip<br/>•<strong> Reinforced Steel</strong>: Strong and durable build<br/>• <strong>Portable</strong>: Compact and lightweight (1.2 lbs / 550 g)<br/>•<strong> Telescopic Lock</strong>: Secure push-button locking mechanism<br/>• <strong>Scratch-Free Ends</strong>: Protects floors and door surfaces<br/>• <strong>Perfect for</strong>: Homes, apartments, dorms & travel use</p>"
           }
         },
+        "collapsible_text_AQa9TN": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Why do you need it?",
+            "content": "<p><strong>Don’t leave for work with a knot in your stomach, worrying about your kids or loved ones.</strong><br/><br/>Right after you leave, simply tell your family to place the SafeNest™ LockPro on the door and enjoy your day with peace of mind.</p><p><strong>Because safety shouldn’t stop when you step outside.</strong></p>"
+          }
+        },
         "text_336jgz": {
           "type": "text",
           "settings": {
@@ -111,6 +124,7 @@
       },
       "block_order": [
         "title",
+        "text_VM3xP3",
         "badges",
         "price",
         "liquid_7rwXAa",
@@ -123,6 +137,7 @@
         "image_Y73rKC",
         "liquid_hYJ3TD",
         "collapsible_text_KtAUxd",
+        "collapsible_text_AQa9TN",
         "text_336jgz",
         "liquid_ULdBQb"
       ],
