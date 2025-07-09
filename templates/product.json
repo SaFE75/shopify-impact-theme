@@ -116,6 +116,20 @@
             "content": "<p>You don’t need to spend thousands on complicated systems.<br/><br/>The best solutions are simple, discreet, and effective.</p><p><strong>SafeNest™ LockPro is the smart choice for those who want protection without breaking the bank</strong></p><p> - Portable<br/>-  No installation required<br/>- Ultra-resistant<br/><br/><strong>Make the smart choice.</strong></p><p></p>"
           }
         },
+        "collapsible_text_jXpgCU": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Free Bonus: \"The Peace of Mind Guide\" eBook Included",
+            "content": "<p>We were going to sell this guide for $19.99.<br/><br/>But honestly  <strong>your peace of mind means more to us.</strong></p><p>So we’ve decided to include it, completely free.<br/><br/><strong>Because real protection goes beyond just a product.</strong></p>"
+          }
+        },
+        "collapsible_text_Cy6jt4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Free eBook With Every Order",
+            "content": ""
+          }
+        },
         "text_336jgz": {
           "type": "text",
           "settings": {
@@ -146,6 +160,8 @@
         "collapsible_text_KtAUxd",
         "collapsible_text_AQa9TN",
         "collapsible_text_DheC3Q",
+        "collapsible_text_jXpgCU",
+        "collapsible_text_Cy6jt4",
         "text_336jgz",
         "liquid_ULdBQb"
       ],
