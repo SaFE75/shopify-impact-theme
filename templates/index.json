@@ -425,7 +425,7 @@
         "item_GxGTyV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_0984.jpg",
+            "image": "shopify://shop_images/review_image_3.jpg",
             "column_size": "3",
             "title": "Bonnie",
             "heading_tag": "h4",
@@ -438,7 +438,7 @@
         "item_9PazdU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-17_a_18.37.32.png",
+            "image": "shopify://shop_images/review_image_1.jpg",
             "column_size": "3",
             "title": "Kelvie M.",
             "heading_tag": "h4",
@@ -451,7 +451,7 @@
         "item_xez8Gj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-17_a_18.42.51.png",
+            "image": "shopify://shop_images/review_image_2.jpg",
             "column_size": "3",
             "title": "Renee",
             "heading_tag": "h4",
