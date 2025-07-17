@@ -419,6 +419,68 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_HUtcin": {
+      "type": "multi-column",
+      "blocks": {
+        "item_GxGTyV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0984.jpg",
+            "column_size": "3",
+            "title": "Bonnie",
+            "heading_tag": "h4",
+            "content": "<p><em>Perfect for a single women on the first floor. it's pretty quiet, very intuitive to use, and was easy to adjust to the right height. </em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9PazdU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-17_a_18.37.32.png",
+            "column_size": "3",
+            "title": "Kelvie M.",
+            "heading_tag": "h4",
+            "content": "<p><em>Effective. Secure. Durable. Non-chewable.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xez8Gj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-17_a_18.42.51.png",
+            "column_size": "3",
+            "title": "Renee",
+            "heading_tag": "h4",
+            "content": "<p><em>Is it going to stop all the bad guys? I'm not sure, but it definitely seems sturdy after pushing from the other side and it's giving me peace of mind. I ordered two of these, for both the front and back doors. I'm fairly sure it would slow someone down, at any rate, which is good enough for me while I grab my nunchucks! ;)</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_GxGTyV",
+        "item_9PazdU",
+        "item_xez8Gj"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Their words, not ours",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_VpY7Dd": {
       "type": "faq",
       "blocks": {
@@ -520,6 +582,7 @@
     "rich_text_MDGBFt",
     "video_nKhDkq",
     "tabs_Xg7AXa",
+    "multi_column_HUtcin",
     "faq_VpY7Dd",
     "contact_mQMb4g"
   ]
