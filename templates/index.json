@@ -276,6 +276,38 @@
         "input_text_color": ""
       }
     },
+    "video_nKhDkq": {
+      "type": "video",
+      "blocks": {
+        "play_cpWeiA": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_mxKFxn": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_cpWeiA",
+        "heading_mxKFxn"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/Enregistrement de l’écran 2025-07-17 à 16.57.58.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "tabs_Xg7AXa": {
       "type": "tabs",
       "blocks": {
@@ -430,6 +462,7 @@
     "video_mTMbP7",
     "rich_text_zNT8iK",
     "featured_product_N8yVVq",
+    "video_nKhDkq",
     "tabs_Xg7AXa",
     "faq_VpY7Dd",
     "contact_mQMb4g"
